@@ -1,0 +1,15 @@
+.page-intro-section-heading {
+  color: #292828;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: bold;
+}
+.page-intro-section-description {
+  color: #292828ca;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.page-intro-section-image {
+  width: 80%;
+  height: 350px;
+}

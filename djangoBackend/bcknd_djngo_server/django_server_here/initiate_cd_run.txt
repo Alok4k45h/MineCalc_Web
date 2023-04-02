@@ -1,0 +1,17 @@
+cd "C:\MineCalc_webd\django_backend\bcknd_djngo_server\django_server_here\venv"
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUs
+.\Scripts\Activate  
+
+cd "C:\MineCalc_webd\django_backend\bcknd_djngo_server\django_server_here\fms_serv"
+
+py manage.py runserver
+
+
+===== impnt code debug=====
+import sys
+print(sys.executable)
+
+
+'''''' debug code link
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/

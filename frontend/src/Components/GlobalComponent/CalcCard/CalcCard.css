@@ -1,0 +1,19 @@
+.calculation-card {
+  background-color: white;
+  height: 100px;
+  width: 300px;
+  border-radius: 8px;
+  padding: 5px;
+  margin-right: 10px !important;
+}
+
+.calculation-card-title {
+  color: #292828;
+  font-family: "Roboto";
+  font-size: 18px;
+  text-decoration: none !important;
+}
+
+.link-tag {
+  text-decoration: none !important;
+}

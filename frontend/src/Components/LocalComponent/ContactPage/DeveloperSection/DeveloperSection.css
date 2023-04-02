@@ -1,0 +1,102 @@
+.pro-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.developer-section {
+  background-color: #f9fbfe;
+}
+.developer-section-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+.developer-section-description {
+  color: #292828ca;
+  font-size: 16px;
+}
+.developer-card {
+  text-align: center;
+  background-color: white;
+  border-radius: 300px !important;
+  margin: 10px;
+  width: 300px;
+  height: 300px;
+  /*animation: developer-animation 10s linear infinite; */
+}
+.developer-card-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 300px !important;
+}
+.developer-card-title {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.developer-card-description {
+  color: #f9fbfecb;
+  font-size: 22px !important;
+  font-weight: 400;
+}
+
+.developer-card:hover > .developer-content {
+  opacity: 1;
+  transform: scale(0.72);
+  cursor: pointer;
+  border-radius: 350px !important;
+}
+
+/*
+ .developer-card:hover{
+     animation-play-state: paused;
+ }
+ */
+
+.developer-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+  background-color: #292828ca;
+  color: white;
+  font-weight: bold !important;
+  font-family: "roboto";
+  border-radius: 16px !important;
+  opacity: 0;
+  transition: all 0.8s;
+}
+
+.dev-icon {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+
+/*
+ @keyframes developer-animation {
+ 
+     0%{
+         transform: rotate(-5deg);
+     }
+     25%{
+         transform: rotate(0deg);
+     }
+     50%{
+         transform: rotate(5deg);
+     }
+     75%{
+         transform: rotate(0deg);
+     }
+     100%{
+         transform: rotate(-5deg);
+     }
+ }
+ */

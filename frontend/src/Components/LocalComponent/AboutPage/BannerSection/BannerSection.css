@@ -1,0 +1,18 @@
+.banner-sections-bg-about-container {
+  height: 65vh;
+  background-size: cover;
+  position: relative;
+}
+.banner-about-heading {
+  font-family: "Poor Story", cursive;
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.banner-about-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}

@@ -1,0 +1,21 @@
+#topButton {
+  visibility: hidden;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 20px;
+  font-size: 40px;
+}
+
+#topButton:hover {
+  background-color: black;
+  color: white;
+  transition: all ease-in-out 0.2s;
+}

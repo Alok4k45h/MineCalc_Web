@@ -1,0 +1,56 @@
+.penetration-heading {
+  font-family: "Roboto";
+  color: #292828;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.penetration-para {
+  font-family: "Roboto";
+  color: #292828ca;
+  font-size: 18px;
+}
+
+.tool-heading {
+  font-family: "Roboto";
+  color: #292828ca;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.tool-para {
+  font-family: "Roboto";
+  color: #292828ca;
+  font-size: 16px;
+}
+
+.selected-button {
+  color: white;
+  background-color: green;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  height: 43px;
+  border-style: none;
+  /* border-style: solid;
+  border-width: 2px;
+  border-color: green; */
+  margin-right: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.not-selected-button {
+  color: #ff9f00;
+  background-color: transparent;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  height: 43px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ff9f00;
+  margin-right: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,26 @@
+.aim-section {
+  background-color: transparent;
+}
+.aims-section-img {
+  width: 270px;
+}
+.aim-section-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+.aim-section-description {
+  color: #292828ca;
+  font-size: 18px;
+  text-align: justify;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .aim-section {
+    text-align: center;
+  }
+  .aim-section-content-container {
+    text-align: center !important;
+  }
+}

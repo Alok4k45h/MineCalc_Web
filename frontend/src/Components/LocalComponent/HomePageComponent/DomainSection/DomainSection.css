@@ -1,0 +1,41 @@
+.domain-container {
+  background-image: url("https://cutewallpaper.org/21/mining-wallpaper/Descarregar-Wallpapers-Em-MAAxima-ResoluAALo-Mining-.jpg");
+  background-size: cover;
+}
+
+.domain-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.domain-para {
+  color: #292828ca;
+  font-size: 18px;
+}
+
+.domain-card {
+  border-radius: 16px;
+  height: 350px;
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+domain-card-image {
+  border-radius: 16px;
+  height: 140px !important;
+}
+
+.card-h1 {
+  color: #292828;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500px;
+}
+
+.card-para {
+  color: #292828ca;
+  font-family: "Roboto";
+  font-size: 16px;
+}

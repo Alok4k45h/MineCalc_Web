@@ -1,0 +1,20 @@
+.contact-us-section {
+}
+.contact-us-section-heading {
+  color: #292828;
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: bold;
+}
+.customs-button {
+  color: #ff9f00;
+  background-color: transparent;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  width: 140px;
+  height: 43px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ff9f00;
+}

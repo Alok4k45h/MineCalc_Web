@@ -1,0 +1,25 @@
+.cw-img {
+  width: 500px;
+  height: 500px;
+}
+
+.input-heading {
+  font-family: "Roboto";
+  color: #292828;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.input-para {
+  font-family: "Roboto";
+  color: #292828ca;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.result {
+  font-family: "Roboto";
+  color: #292828;
+  font-size: 18px;
+  font-weight: 700;
+}

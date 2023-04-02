@@ -1,0 +1,35 @@
+.pro-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.contact img {
+  height: 50vh;
+  width: 100%;
+}
+
+textarea {
+  margin-top: 25px;
+  border: none !important;
+  background-color: #ebecf0 !important;
+  background: #ebecf0;
+  box-shadow: 5px 5px 0px #cacbce, -5px -5px 0px #ffffff !important;
+  border-radius: 20px !important;
+}
+
+.inputEl {
+  margin-top: 25px;
+  border: none !important;
+  background-color: #ebecf0 !important;
+  background: #ebecf0;
+  box-shadow: 5px 5px 0px #cacbce, -5px -5px 0px #ffffff !important;
+  border-radius: 20px !important;
+}
+
+.form-control:focus {
+  transform: scale(1.02);
+}
+.form-control {
+  box-shadow: none;
+}

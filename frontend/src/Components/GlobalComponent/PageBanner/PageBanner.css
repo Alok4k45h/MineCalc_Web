@@ -1,0 +1,15 @@
+.banner-page-section {
+  background-image: url("https://img.freepik.com/free-vector/cartoon-gold-mining-rail-mountain-treasure-cave_107791-14395.jpg?w=2000");
+  background-size: cover;
+  height: 40vh;
+}
+.banner-page-section-image {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.banner-page-section-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 40px;
+  font-weight: 700;
+}
